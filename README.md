@@ -24,7 +24,7 @@ This is an [Expo](https://expo.dev) project created with [`create-gluestack-app`
 
 ## 🚀 Features
 
-- ✅ **Grocery CRUD**
+- ✅ **Grocery CRUD & Infinity list pagination**
   <br><br>
 - 🌐 **React Query API Integration**
   <br><br>
