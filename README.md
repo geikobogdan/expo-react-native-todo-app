@@ -16,7 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-gluestack-app`
     npm run json-server
    ```
 
-   3. Code Quality
+3. Code Quality
 
    ```bash
     npm run beautify
@@ -34,7 +34,7 @@ This is an [Expo](https://expo.dev) project created with [`create-gluestack-app`
     <br><br>
 - 📱 **Mobile-Ready UI**
   - Built with Gluestack and NativeWind
-  - <br><br>
+    <br><br>
 - 🧹 **Code Quality Tools**
   - Linting with **ESLint**
   - Auto-formatting with **Prettier**
