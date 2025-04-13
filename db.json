@@ -1,0 +1,70 @@
+{
+  "groceries": [
+    {
+      "id": "1",
+      "title": "Saaa",
+      "price": "0",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "second",
+      "price": "99",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "third",
+      "price": "837",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "title": "fourth",
+      "price": "123456",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "fifth",
+      "price": "658",
+      "completed": true
+    },
+    {
+      "id": "7",
+      "title": "seventh",
+      "price": "73",
+      "completed": true
+    },
+    {
+      "id": "8",
+      "title": "eighth",
+      "price": "1299",
+      "completed": false
+    },
+    {
+      "id": "3c0fd311-3674-4495-ac53-b7c1db843f6d",
+      "title": "Asdasd",
+      "price": "123123",
+      "completed": false
+    },
+    {
+      "id": "b6efd034-197d-490d-a4f3-8a036731e233",
+      "title": "Ewe E",
+      "price": "1234",
+      "completed": false
+    },
+    {
+      "id": "88b90941-f381-4beb-97e3-9c361bf04e65",
+      "title": "123",
+      "price": "12312",
+      "completed": false
+    },
+    {
+      "id": "9f76c5c3-756d-4da3-a8e6-2532e22e2b89",
+      "title": "Test test",
+      "price": "123123",
+      "completed": false
+    }
+  ]
+}
